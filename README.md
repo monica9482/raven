@@ -10,7 +10,7 @@ See instructions. Delete this line and place the Product Vision Statement here.
 
 See instructions. Delete this line and place a link to the user stories here.
 
-[User Story Issues] (https://github.com/monica9482/raven/issues?q=is%3Aissue+state%3Aopen)
+[User Story Issues](https://github.com/monica9482/raven/issues?q=is%3Aissue+state%3Aopen)
 
 ## Steps necessary to run the software
 
