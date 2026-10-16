@@ -7,17 +7,13 @@ A little exercise to build a web application following an agile development proc
 We aim to create a web app that allows teachers to keep track of their students and the grades they have given to their students.
 
 ## User stories
-
-See instructions. Delete this line and place a link to the user stories here.
-
-[User Story Issues](https://github.com/monica9482/raven/issues?q=is%3Aissue+state%3Aopen)
+ 
+[User Story Issues](https://github.com/software-students-fall2026/web-app-exercise-raven/issues?q=is%3Aissue+state%3Aopen) 
 
 ## Steps necessary to run the software
 
 See instructions. Delete this line and place instructions to download, configure, and run the software here.
 
 ## Task boards
-
-See instructions. Delete this line and place a link to the task boards here.
-
-[Sprint 1](https://github.com/users/monica9482/projects/2)
+ 
+[Sprint 1](https://github.com/orgs/software-students-fall2026/projects/45) 
